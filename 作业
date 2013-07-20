@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>google</title>
+    <meta charset="utf-8">
+</head>
+<body bgcolor="yellow">
+      <h1 style="color: red">Hello,HTLM! </h1>
+      <h2 style="color: red">Hello,HTLM! </h2>
+      <h3 style="color: red">Hello,HTLM! </h3>
+      <h4 style="color: red">Hello,HTLM! </h4>
+      <h5 style="color: red">Hello,HTLM! </h5>
+      <h6 style="color: red">Hello,HTLM! </h6>
+      <p>HTLM是一门很容易的课程！</p>
+      <img src="image/Google-logo1.jpg" height="100" title="google logo"> <br>
+      <a href="http://www.google.com.hk/" target="_blank">
+          This is a link:google!
+      </a> <br>
+      <a href="#end">go to end</a>
+      <ul>
+          <li>mother</li>
+          <li>father</li>
+          <li>sister</li>
+          <li>brother</li>
+      </ul>
+      <ol>
+          <li>mother</li>
+          <li>father</li>
+          <li>sister</li>
+          <li>brother</li>
+      </ol>
+      <br>
+      <br>
+      <br>
+      <br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <p id="end">end</p>
+</body>
+</html>
